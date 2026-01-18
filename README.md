@@ -28,11 +28,11 @@ A machine learning web application built with Python and Streamlit that predicts
 
 Create a `requirements.txt` file with the following dependencies:
 
-streamlit= 1.31.0
-joblib = 1.3.2
-pandas = 2.1.4
-scikit-learn = 1.4.0
-numpy = 1.26.3
+- streamlit= 1.31.0
+- joblib = 1.3.2
+- pandas = 2.1.4
+- scikit-learn = 1.4.0
+- numpy = 1.26.3
 
 ##  Project Structure
 
